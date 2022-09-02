@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\study-abroad"
+		},
+		{
+			"path": "..\\class"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5510,
+		"liveServer.settings.multiRootWorkspaceName": "Practice"
+	}
+}
